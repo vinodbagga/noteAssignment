@@ -1,0 +1,14 @@
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/repositories/NoteRepository.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/AssignmentApplication.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/dto/User.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/services/NoteCustomUserDetailsService.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/repositories/NoteUserRepo.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/controllers/NoteController.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/securityconfig/NoteWebSecurity.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/dto/NoteCustomUserDetails.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/services/IUser.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/services/INote.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/dto/Note.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/exceptions/ResourceNotFoundException.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/services/impl/IUserImpl.java
+/Users/apple/Downloads/assignment/src/main/java/com/assignment/demo/services/impl/NoteImpl.java
